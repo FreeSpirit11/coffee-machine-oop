@@ -16,7 +16,7 @@ To get started with the Coffee Machine (OOP), follow these steps:
 
 1. Clone the repository:
    ```shell
-   git clone https://github.com/your-username/coffee-machine-oop.git
+   git clone https://github.com/FreeSpirit11/coffee-machine-oop.git
 
 2. Run the coffee_machine.py file:
    ```shell
